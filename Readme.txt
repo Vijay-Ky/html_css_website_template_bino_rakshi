@@ -1,50 +1,46 @@
-== Theme Name: Bino - Free HTML5 Landing Page Template
+🌍 Bino - Free HTML5 Landing Page Template  
 
-== Copyright (c) 2016 BootstrapThemes.co
+🚀 Live Preview: [View the Website](https://vijay-ky.github.io/html_css_website_template_bino_rakshi/)  
 
-== http://BootstrapThemes.co
+ 📌 About This Project  
+Bino is a sleek, modern, and fully responsive HTML5 landing page template designed for businesses, portfolios, and creative projects. Built using Bootstrap, it ensures a seamless and professional user experience across all devices.  
 
+ 🎨 Theme Details  
+- Theme Name: Bino - Free HTML5 Landing Page Template  
+- Copyright (c) 2016: BootstrapThemes.co  
+- Official Website: [BootstrapThemes.co](http://BootstrapThemes.co)  
 
-1. Bootstrap Framwork
-2. HTML5 
-3. Css & Css3
-4. wow animate.css
-5. SmoothScroll
-6. wol Carusel Slider
-7. Mixtub with masonry
-8. jquery magnific-popup.js
-9. fancybox popup vedio
-10. Bootstrap carusel slider
-11. jquery easing js
-12. gmaps API
-13. font Awsome icons
+ 🔧 Technologies & Features  
+✅ Bootstrap Framework 🏗️  
+✅ HTML5 & CSS3 🎨  
+✅ WOW Animate.css ✨  
+✅ SmoothScroll for Seamless Navigation 🖱️  
+✅ OWL Carousel Slider 🎠  
+✅ MixItUp with Masonry Grid Layout 📦  
+✅ jQuery Magnific Popup.js for Lightbox Effects 🔍  
+✅ Fancybox Popup Video 📽️  
+✅ Bootstrap Carousel Slider 🎡  
+✅ jQuery Easing JS for Smooth Transitions 🔄  
+✅ Google Maps API Integration 🗺️  
+✅ Font Awesome Icons 🎭  
 
+ 🏆 Credits & Attributions  
+- HTML Created by: [BootstrapThemes.co](http://bootstrapthemes.co)  
+- PSD Designed by: [Kazi Mohammed Erfan](https://www.behance.net/gallery/28954423/Freebie-Bino-Landing-Page-PSD-Template)  
 
-Html Created by: http://bootstrapthemes.co
+ 📜 Usage Rights & Permissions  
+✅ Permitted Uses  
+- Free to use for personal and commercial projects  
+- Can modify the resources as needed  
+- Can integrate into websites, apps, or other commercial products  
+- No attribution required (but credit is appreciated)  
 
+🚫 Prohibited Uses  
+- Cannot redistribute, resell, lease, sublicense, or offer files as standalone products  
+- Cannot directly link to the download file  
+- If promoting, must link back to the original resource page, not the download file  
 
+📢 Want to Share?  
+If you'd like to share this template, you must link to the original resource page at [BootstrapThemes.co](http://bootstrapthemes.co) and not directly to the download file. Hotlinking is strictly prohibited.  
 
-Psd Created by: --Kazi Mohammed Erfan-- https://www.behance.net/gallery/28954423/Freebie-Bino-Landing-Page-PSD-Template
-
-
-Rights: 
-You are permitted to use the resources for any number of personal and commercial projects.
-You may modify the resources according to your requirements and include them into works, 
-such as websites, applications or other materials intended for sale. No attribution or 
-link back to this site is required, however any credit will be much appreciated.
-
-
-Prohibitions:
-You do not have the rights to redistribute, resell, lease, license, sublicense or offer 
-files downloaded from http://bootstrapthemes.co to any third party �as is� or as a separate attachment 
-from any of your work. If you wish to promote my resources on your site, you must link back 
-to the resource page where users can find the download and not directly to the download file.
-
-
-
-If you would like to share one of my resources, you can do so by making a link to the specific 
-resource on http://bootstrapthemes.co , you can if you wish insert the embed code for the product previews images to illustrate your link. 
-No HOTLINKING is allowed i.e. you cannot make a direct link to the download or/and the images hosted on http://bootstrapthemes.co
-
-Concerning blog posts, you are free to link to it from any website, 
-but you cannot however publish it as it is, without prior consent from http://bootstrapthemes.co
+💡 Create stunning websites with Bino today!  
